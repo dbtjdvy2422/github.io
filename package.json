@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ikalli.github.io/ReactFolio",
+  "homepage": "https://dbtjdvy2422.github.io/pyo",
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
@@ -8,14 +8,15 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "@types/jest": "^24.9.1",
-    "@types/node": "^12.12.54",
-    "@types/react": "^16.9.45",
-    "@types/react-dom": "^16.9.8",
+    "@types/node": "^12.20.15",
+    "@types/react": "^16.14.8",
+    "@types/react-dom": "^16.9.13",
     "@types/reveal": "^3.3.33",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.3",
-    "typescript": "^3.7.5"
+    "dotenv": "^10.0.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.4.4",
+    "typescript": "^3.9.9"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,9 +43,9 @@
   },
   "devDependencies": {
     "apollo-boost": "^0.4.9",
-    "gh-pages": "^3.1.0",
-    "graphql": "^15.3.0",
-    "react-easy-emoji": "^1.4.0",
+    "gh-pages": "^3.2.0",
+    "graphql": "^15.5.0",
+    "react-easy-emoji": "^1.5.0",
     "react-reveal": "^1.2.2"
   }
 }
