@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f77d7a38.chunk.css",
-    "main.js": "/static/js/main.5720222a.chunk.js",
-    "main.js.map": "/static/js/main.5720222a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cf4e4ba0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cf4e4ba0.js.map",
-    "static/js/2.58208f0d.chunk.js": "/static/js/2.58208f0d.chunk.js",
-    "static/js/2.58208f0d.chunk.js.map": "/static/js/2.58208f0d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1cb2c92b53f902158799482ee03c8d2f.js": "/precache-manifest.1cb2c92b53f902158799482ee03c8d2f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f77d7a38.chunk.css.map": "/static/css/main.f77d7a38.chunk.css.map",
-    "static/js/2.58208f0d.chunk.js.LICENSE.txt": "/static/js/2.58208f0d.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/static/media/your photo.b9d7d448.png"
+    "main.css": "/pyo/static/css/main.86773e5b.chunk.css",
+    "main.js": "/pyo/static/js/main.fd08e384.chunk.js",
+    "main.js.map": "/pyo/static/js/main.fd08e384.chunk.js.map",
+    "runtime-main.js": "/pyo/static/js/runtime-main.556ffa49.js",
+    "runtime-main.js.map": "/pyo/static/js/runtime-main.556ffa49.js.map",
+    "static/js/2.58208f0d.chunk.js": "/pyo/static/js/2.58208f0d.chunk.js",
+    "static/js/2.58208f0d.chunk.js.map": "/pyo/static/js/2.58208f0d.chunk.js.map",
+    "index.html": "/pyo/index.html",
+    "precache-manifest.f85eda3ad3dd3ecc9cc0851fdf6c1215.js": "/pyo/precache-manifest.f85eda3ad3dd3ecc9cc0851fdf6c1215.js",
+    "service-worker.js": "/pyo/service-worker.js",
+    "static/css/main.86773e5b.chunk.css.map": "/pyo/static/css/main.86773e5b.chunk.css.map",
+    "static/js/2.58208f0d.chunk.js.LICENSE.txt": "/pyo/static/js/2.58208f0d.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/pyo/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/pyo/static/media/your photo.b9d7d448.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf4e4ba0.js",
+    "static/js/runtime-main.556ffa49.js",
     "static/js/2.58208f0d.chunk.js",
-    "static/css/main.f77d7a38.chunk.css",
-    "static/js/main.5720222a.chunk.js"
+    "static/css/main.86773e5b.chunk.css",
+    "static/js/main.fd08e384.chunk.js"
   ]
 }
